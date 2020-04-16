@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Migration", "EF_Migratio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseFirst", "..\..\Database First\DataBaseFirstApproach\DataBaseFirst\DataBaseFirst.csproj", "{63D651D3-0F69-42B4-A303-CF1FFC09CCFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassData", "..\..\ModelFirst\ModelFirstApproach\ClassData\ClassData.csproj", "{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelFirst", "..\..\ModelFirst\ModelFirstApproach\ClassData\ModelFirst.csproj", "{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
