@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst_Start", "CodeFirs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Migration", "EF_Migration\EF_Migration.csproj", "{1E5BD097-2410-4D45-B5E6-B80CF31E7686}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseFirst", "..\..\Database First\DataBaseFirstApproach\DataBaseFirst\DataBaseFirst.csproj", "{63D651D3-0F69-42B4-A303-CF1FFC09CCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassData", "..\..\ModelFirst\ModelFirstApproach\ClassData\ClassData.csproj", "{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1E5BD097-2410-4D45-B5E6-B80CF31E7686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5BD097-2410-4D45-B5E6-B80CF31E7686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5BD097-2410-4D45-B5E6-B80CF31E7686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D651D3-0F69-42B4-A303-CF1FFC09CCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D651D3-0F69-42B4-A303-CF1FFC09CCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D651D3-0F69-42B4-A303-CF1FFC09CCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D651D3-0F69-42B4-A303-CF1FFC09CCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636AEA6A-613B-4AED-A3F6-9E18984CA3B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
